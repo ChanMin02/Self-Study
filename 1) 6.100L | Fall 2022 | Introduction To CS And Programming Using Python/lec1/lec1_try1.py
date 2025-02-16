@@ -1,0 +1,5 @@
+print(type(1234))
+print(type(8.99))
+print(type(9.0))
+print(type(True))
+print(type(False))
